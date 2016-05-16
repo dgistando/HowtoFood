@@ -1,2 +1,2 @@
 # HowtoFood
-Mobile Android application that stores dream in local storage. The dreams are stored as text files on your device. 
+Mobile Android application that outputs recipes given list of ingredients or various other search criterion. Local SQLite database backend for recipe storage and other user data.
